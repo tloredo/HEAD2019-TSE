@@ -18,6 +18,8 @@ Links to content for the session not included in this repo:
   * [Bayesian Blocks with flat and linear block shapes](https://rshiroma.shinyapps.io/bayesianblocks/)
 * [carma_pack tutorial](https://github.com/malgosias/carma_tutorial)
 
+Some of the slide documents include links to other supporting material.
+
 
 
 ## Abstracts
