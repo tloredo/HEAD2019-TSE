@@ -1,5 +1,5 @@
 # Exploring time series data in high energy astrophysics
-Repository supporting the  Special Session, *Exploring time series data in high energy astrophysics*, held at the AAS High Energy Astrophysics Division 17th Divisional Meeting, Monterey CA, 18 March 2019
+Repository supporting the  Special Session, *Exploring time series data in high energy astrophysics*, held at the AAS High Energy Astrophysics Division 17th Divisional Meeting, Monterey CA, 18 March 2019, organized by Tom Loredo and Jeff Scargle
 
 ## Overview
 
