@@ -1,5 +1,5 @@
 # Exploring time series data in high energy astrophysics
-Repository supporting the  Special Session, *Exploring time series data in high energy astrophysics*, held at the AAS High Energy Astrophysics Division 17th Divisional Meeting, Monterey CA, 18 March 2019, organized by Tom Loredo and Jeff Scargle
+This repository hosts resources supporting the  Special Session, *Exploring time series data in high energy astrophysics*, held at the AAS High Energy Astrophysics Division 17th Divisional Meeting, Monterey CA, 18 March 2019, organized by Tom Loredo and Jeff Scargle.
 
 To copy the material to your computer, we suggest you use **Download ZIP** (on GitHub) rather than clone the repo. This will spare you from downloading old versions of the PDF files that Git unfortunately does note efficiently handle in the repo history.
 
